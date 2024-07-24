@@ -1,6 +1,6 @@
 # unsupervised-semantic-seg-cnn
-Code and Ablation Studies for paper "A Novel Unsupervised Approach for Training Convolutional DSSNs on Remote Sensing".
+Code and Ablation Studies for the paper "A Novel Unsupervised Approach for Training Convolutional DSSNs on Remote Sensing".
 
-#### Ablation studies will be added by 07/24/2024.
+The Ablation Studies for the paper can be found in the "Ablation_Studies.pdf" file.
 
-Code will be added by 09/30/2024.
+The code will be added by 09/30/2024.
